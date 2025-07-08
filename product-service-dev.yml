@@ -1,0 +1,4 @@
+server:
+  port: 8081 # Product servisinin DEV ortamında çalışacağı port
+welcome:
+  message: "Welcome to Product Service - DEV Environment"
